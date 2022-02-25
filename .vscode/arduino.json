@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:yun",
+    "programmer": "arduino:avrispmkii",
+    "port": "COM1",
+    "sketch": "MCUtoWEB.ino"
+}
